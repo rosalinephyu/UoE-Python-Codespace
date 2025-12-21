@@ -1,0 +1,11 @@
+This repository contains all data, code, and dashboard files
+for the Topics in Business Analytics individual coursework.
+
+Folders:
+- data: raw and cleaned TfL datasets
+- code: Python scripts for analysis and modelling
+- dashboard: Tableau interactive dashboard
+
+Author: Rosaline
+Module: Topics in Business Analytics (BEMM457)
+University of Exeter
